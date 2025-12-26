@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mfl-cap-manager/static/css/main.6e2fa08f.css",
-    "main.js": "/mfl-cap-manager/static/js/main.f1c3da8b.js",
+    "main.css": "/mfl-cap-manager/static/css/main.e2128ade.css",
+    "main.js": "/mfl-cap-manager/static/js/main.e305d556.js",
     "static/js/453.95380e7d.chunk.js": "/mfl-cap-manager/static/js/453.95380e7d.chunk.js",
     "index.html": "/mfl-cap-manager/index.html",
-    "main.6e2fa08f.css.map": "/mfl-cap-manager/static/css/main.6e2fa08f.css.map",
-    "main.f1c3da8b.js.map": "/mfl-cap-manager/static/js/main.f1c3da8b.js.map",
+    "main.e2128ade.css.map": "/mfl-cap-manager/static/css/main.e2128ade.css.map",
+    "main.e305d556.js.map": "/mfl-cap-manager/static/js/main.e305d556.js.map",
     "453.95380e7d.chunk.js.map": "/mfl-cap-manager/static/js/453.95380e7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e2fa08f.css",
-    "static/js/main.f1c3da8b.js"
+    "static/css/main.e2128ade.css",
+    "static/js/main.e305d556.js"
   ]
 }
