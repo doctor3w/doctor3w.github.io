@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/mfl-cap-manager/static/css/main.e2128ade.css",
-    "main.js": "/mfl-cap-manager/static/js/main.e305d556.js",
+    "main.css": "/mfl-cap-manager/static/css/main.57bdc2d3.css",
+    "main.js": "/mfl-cap-manager/static/js/main.e6864b7f.js",
     "static/js/453.95380e7d.chunk.js": "/mfl-cap-manager/static/js/453.95380e7d.chunk.js",
+    "static/media/logo2816x1536.png": "/mfl-cap-manager/static/media/logo2816x1536.3a85e2a6a761a8fa27d9.png",
     "index.html": "/mfl-cap-manager/index.html",
-    "main.e2128ade.css.map": "/mfl-cap-manager/static/css/main.e2128ade.css.map",
-    "main.e305d556.js.map": "/mfl-cap-manager/static/js/main.e305d556.js.map",
+    "main.57bdc2d3.css.map": "/mfl-cap-manager/static/css/main.57bdc2d3.css.map",
+    "main.e6864b7f.js.map": "/mfl-cap-manager/static/js/main.e6864b7f.js.map",
     "453.95380e7d.chunk.js.map": "/mfl-cap-manager/static/js/453.95380e7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2128ade.css",
-    "static/js/main.e305d556.js"
+    "static/css/main.57bdc2d3.css",
+    "static/js/main.e6864b7f.js"
   ]
 }
